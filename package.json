@@ -17,7 +17,9 @@
     "inline-css": "^2.4.1",
     "juice": "^5.1.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "tar": ">=4.4.2"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/megzimo/gulp_workflow_test.git"

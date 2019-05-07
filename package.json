@@ -1,0 +1,29 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inliner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
+    "gulp-sass": "^4.0.2",
+    "inline-css": "^2.4.1",
+    "juice": "^5.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megzimo/gulp_workflow_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/megzimo/gulp_workflow_test/issues"
+  },
+  "homepage": "https://github.com/megzimo/gulp_workflow_test#readme"
+}
